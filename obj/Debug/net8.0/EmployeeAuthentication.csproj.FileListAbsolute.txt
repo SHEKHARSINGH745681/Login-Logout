@@ -111,3 +111,14 @@ D:\Projects\EmployeeAuthentication\EmployeeAuthentication\obj\Debug\net8.0\refin
 D:\Projects\EmployeeAuthentication\EmployeeAuthentication\obj\Debug\net8.0\EmployeeAuthentication.pdb
 D:\Projects\EmployeeAuthentication\EmployeeAuthentication\obj\Debug\net8.0\EmployeeAuthentication.genruntimeconfig.cache
 D:\Projects\EmployeeAuthentication\EmployeeAuthentication\obj\Debug\net8.0\ref\EmployeeAuthentication.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\obj\Debug\net8.0\EmployeeAuthentication.sourcelink.json
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\EmployeeAuthentication\EmployeeAuthentication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
