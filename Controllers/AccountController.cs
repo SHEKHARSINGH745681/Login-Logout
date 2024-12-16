@@ -26,7 +26,8 @@ namespace EmployeeAuthentication.Controllers
                 _configuration = configuration;
             }
 
-        [Authorize(Roles = "Admin")]
+        // [Authorize(Roles = "Admin")]
+        [AllowAnonymous]
         [HttpPost("register")]
         
         public async Task<IActionResult> Register([FromBody] Register model)
@@ -42,7 +43,7 @@ namespace EmployeeAuthentication.Controllers
 
                 return BadRequest(result.Errors);
             }
-
+        [AllowAnonymous]
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] Login model)
         {
@@ -75,6 +76,7 @@ namespace EmployeeAuthentication.Controllers
         }
 
 
+        [AllowAnonymous]
 
         [HttpPost("add-role")]
         public async Task<IActionResult> AddRole([FromBody] string role)
@@ -92,6 +94,7 @@ namespace EmployeeAuthentication.Controllers
 
             return BadRequest("Role already exists");
         }
+        [AllowAnonymous]
 
         [HttpPost("assign-role")]
         public async Task<IActionResult> AssignRole([FromBody] UserRole model)

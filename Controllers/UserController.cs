@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeAuthentication.Controllers
 {
-    [Authorize(Roles = "User")]
+    [Authorize(Roles = "User,Admin")]
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase
